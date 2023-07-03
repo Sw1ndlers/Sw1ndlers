@@ -2,7 +2,7 @@
 
 ## About
 Hello, I'm Alex, a full stack developer working on multiple open source projects.
-
+You can check out my website at ![Sw1ndler.tk](https://img.shields.io/badge/just%20the%20message-8A2BE2)
 -------------------
 
 ## Contact
@@ -15,6 +15,7 @@ Hello, I'm Alex, a full stack developer working on multiple open source projects
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![DiscordJS](https://img.shields.io/badge/discord.js-%232C3454.svg?style=for-the-badge&logo=Discord&logoColor=Blue)
 
 ### Learning
