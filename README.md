@@ -1,8 +1,8 @@
 <div align="center">
 
 ## About
-Hello, I'm Alex, a full stack developer working on multiple open source projects.
-You can check out my website at ![Sw1ndler.tk](https://img.shields.io/badge/just%20the%20message-8A2BE2)
+### Hello, I'm Alex, a full stack developer working on multiple open source projects.
+### You can check out my website at ![Sw1ndler.tk](https://img.shields.io/badge/just%20the%20message-8A2BE2)
 -------------------
 
 ## Contact
