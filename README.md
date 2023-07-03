@@ -13,7 +13,7 @@ Hello, I'm Alex, a full stack developer working on multiple open source projects
 
 ### Favorites
 
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![DiscordJS](https://img.shields.io/badge/discord.js-%232C3454.svg?style=for-the-badge&logo=Discord&logoColor=Blue)
 
