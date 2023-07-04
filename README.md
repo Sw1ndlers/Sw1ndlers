@@ -1,7 +1,3 @@
-<script>
-  console.log("test")  
-</script>
-
 <div align="center">
 
 ## About
