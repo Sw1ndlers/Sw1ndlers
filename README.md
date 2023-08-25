@@ -3,6 +3,7 @@
 ## About
 ### Hi, I'm Alex, a full stack developer working on multiple open source projects.
 ### You can check out my website at [Sw1ndler.tk](https://sw1ndler.tk)
+### You can join my scripts discord at [.gg/cZ5AhGJrfD](https://discord.gg/cZ5AhGJrfD)
 -------------------
 
 ## Contact
