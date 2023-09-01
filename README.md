@@ -62,6 +62,8 @@
 <img width="425" src="https://github-readme-streak-stats.herokuapp.com/?user=Sw1ndlerScripts&theme=tokyonight&include_all_commits=true&count_private=true" />  
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=Sw1ndlerScripts&bg_color=1a1b27&color=628fdb&line=628fdb&point=f0fcff&area=true&hide_border=false" />
 
+-------------------
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Sw1ndlerScripts&style=flat&color=70a5fd)
 
  <div>
