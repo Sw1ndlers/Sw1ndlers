@@ -64,6 +64,6 @@
 
 -------------------
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sw1ndlerScripts&style=flat&color=70a5fd)
+![Profile Views](https://komarev.com/ghpvc/?username=Sw1ndlerScripts&style=for-the-badge&color=70a5fd)
 
  <div>
