@@ -56,7 +56,11 @@
 </a>
 
 -------------------
+### Profile views 👀
 
+![Profile Views](https://komarev.com/ghpvc/?username=Sw1ndlerScripts&style=flat&color=1a1b27)
+
+-------------------
 
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=Sw1ndlerScripts&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
 <img width="425" src="https://github-readme-streak-stats.herokuapp.com/?user=Sw1ndlerScripts&theme=tokyonight&include_all_commits=true&count_private=true" />  
