@@ -58,7 +58,7 @@
 -------------------
 ### Profile views 👀
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sw1ndlerScripts&style=flat&color=1a1b27)
+![Profile Views](https://komarev.com/ghpvc/?username=Sw1ndlerScripts&style=flat&color=70a5fd)
 
 -------------------
 
