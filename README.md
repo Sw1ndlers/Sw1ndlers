@@ -58,6 +58,7 @@
 ### Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sw1ndlerScripts&style=for-the-badge&color=70a5fd)
+<br>
 <sup> (since 8/31/2023) </sup>
 
 -------------------
