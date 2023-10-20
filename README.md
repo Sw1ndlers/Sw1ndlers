@@ -29,6 +29,9 @@
 <a href="https://discord.js.org">
   <img src="https://img.shields.io/badge/discord.js-%232C3454.svg?style=for-the-badge&logo=Discord&logoColor=Blue" alt="Discord.js">
 </a>
+<a href="https://lua.org/">
+  <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="CSS3">
+</a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
 </a>
