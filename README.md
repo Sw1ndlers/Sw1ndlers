@@ -19,7 +19,7 @@
 <a href="https://www.javascript.com">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Javascript">
 </a>
-<a href="[https://www.javascript.com](https://www.typescriptlang.org/)">
+<a href="https://www.typescriptlang.org/">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript">
 </a>
 <a href="https://nodejs.org">
