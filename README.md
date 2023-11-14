@@ -63,19 +63,15 @@
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
 </a>
 
-### Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=Sw1ndlers&style=for-the-badge&color=70a5fd)
-<br>
-<br>
-<sup> (since 8/31/2023) </sup>
-
 -------------------
 
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sw1ndlers&layout=compact&bg_color=1a1b27&text_color=628fdb&line=628fdb&point=f0fcff&hide=lua" />
+<br>
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=Sw1ndlers&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
 <img width="425" src="https://github-readme-streak-stats.herokuapp.com/?user=Sw1ndlers&theme=tokyonight&include_all_commits=true&count_private=true" />  
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=Sw1ndlers&bg_color=1a1b27&color=628fdb&line=628fdb&point=f0fcff&area=true&hide_border=false" />
 
 
- <div>
+<div>
+
