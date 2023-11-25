@@ -2,7 +2,6 @@
 
 ## About
 ### Hi, I'm Alex, a full stack developer working on multiple open source projects.
-### You can check out my website at [Sw1ndler.tk](https://sw1ndler.tk)
 -------------------
 
 ## Contact
