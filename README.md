@@ -51,7 +51,7 @@
 <a href="https://tailwindui.com/">
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
 </a>
-<a href="[https://tailwindui.com/](https://react.dev/)">
+<a href="https://react.dev/">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
 </a>
 
