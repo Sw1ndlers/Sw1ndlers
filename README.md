@@ -24,9 +24,6 @@
 <a href="https://nodejs.org">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
 </a>
-<a href="https://java.com">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-</a>
 <a href="https://discord.js.org">
   <img src="https://img.shields.io/badge/discord.js-%232C3454.svg?style=for-the-badge&logo=Discord&logoColor=Blue" alt="Discord.js">
 </a>
