@@ -15,26 +15,17 @@
 <a href="https://www.python.org">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </a>
-<a href="https://www.javascript.com">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Javascript">
-</a>
 <a href="https://www.typescriptlang.org/">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript">
 </a>
 <a href="https://nodejs.org">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
 </a>
-<a href="https://discord.js.org">
-  <img src="https://img.shields.io/badge/discord.js-%232C3454.svg?style=for-the-badge&logo=Discord&logoColor=Blue" alt="Discord.js">
-</a>
 <a href="https://lua.org/">
   <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="CSS3">
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 </a>
 <a href="https://www.rust-lang.org">
   <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
@@ -49,6 +40,16 @@
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
 </a>
 
+### Other Languages
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+</a>
+<a href="https://discord.js.org">
+  <img src="https://img.shields.io/badge/discord.js-%232C3454.svg?style=for-the-badge&logo=Discord&logoColor=Blue" alt="Discord.js">
+</a>
+<a href="https://www.javascript.com">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Javascript">
+</a>
 
 ### Tools
 
