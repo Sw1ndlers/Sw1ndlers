@@ -8,6 +8,9 @@
 
 ### Languages
 
+<a href="https://www.rust-lang.org">
+  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
+</a>
 <a href="https://www.python.org">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </a>
@@ -17,20 +20,17 @@
 <a href="https://lua.org/">
   <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="CSS3">
 </a>
+<a href="https://react.dev/">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+</a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-</a>
-<a href="https://www.rust-lang.org">
-  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
 </a>
 <a href="https://svelte.dev">
   <img src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte">
 </a>
 <a href="https://tailwindui.com/">
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
-</a>
-<a href="https://react.dev/">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
 </a>
 
 ### Tools
