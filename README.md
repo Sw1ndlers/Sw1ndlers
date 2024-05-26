@@ -47,6 +47,11 @@
 
 -------------------
 
+## Contact
+<a href="https://discord.com/users/425797455486124032">![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
+
+-------------------
+
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sw1ndlers&layout=compact&bg_color=1a1b27&text_color=628fdb&line=628fdb&point=f0fcff&hide=lua" />
 <br>
