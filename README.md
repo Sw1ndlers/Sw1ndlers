@@ -4,7 +4,9 @@
 ### Hi, I'm Alex, a full stack developer working on multiple open source projects.
 
 -------------------
-## Languages and Tools  
+## Skills
+
+### Languages
 
 <a href="https://www.python.org">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python">
