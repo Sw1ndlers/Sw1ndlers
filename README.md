@@ -4,10 +4,7 @@
 
 ### Hi, I'm Alex.
 ### A full stack developer working on multiple open source projects.
-
-## Current Project
-
-### Working on the frontend for https://lemonhost.pics/
+### Currently working on the frontend for https://lemonhost.pics/
 
 ## Skills
 
