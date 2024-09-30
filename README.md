@@ -1,10 +1,6 @@
 <div align="center">
 
-## About
-
-### Hi, I'm Alex.
-### A full stack developer working on multiple open source projects.
-### Currently working on the frontend for https://lemonhost.pics/
+# Hi, I'm Alex.
 
 ## Skills
 
